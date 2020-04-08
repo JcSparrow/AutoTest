@@ -33,4 +33,6 @@ public class BasicAnnotation {
     public void afterClass(){
         System.out.println("afterClass这是在类运行之前运行的方法");
     }
+
+
 }
